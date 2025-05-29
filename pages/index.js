@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Só pra lembrar TE AMO !</h1>
+    return <h1>Só pra lembrar que EU TE AMO !</h1>
     
 }
 
